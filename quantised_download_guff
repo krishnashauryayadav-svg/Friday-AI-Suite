@@ -1,0 +1,6 @@
+# 1. मॉडल को GGUF फॉर्मेट में लोकल कोलाब स्टोरेज में सेव करना
+model.save_pretrained_gguf("friday_model", tokenizer, quantization_method = "q4_k_m")
+
+# 2. गूगल कोलाब की ऑफिशियल लाइब्रेरी से फाइल को सीधे अपने कंप्यूटर पर डाउनलोड करना
+from google.colab import files
+files.download("friday_model-unsloth.Q4_K_M.gguf")
