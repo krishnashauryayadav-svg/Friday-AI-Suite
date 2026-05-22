@@ -79,4 +79,4 @@ A true production pipeline is defined by the depth of its testing lifecycle. Bel
    *Mitigation:* Abandoned unstable remote tunnel setups; completely re-engineered the engine over **Ollama's light-weight offline native client framework**.
 
 ---
-*Architected, engineered, and fine-tuned by Krishna Bhai. Defying hardware limits through advanced quantization engineering.*
+*Architected, engineered, and fine-tuned by Krishna Shaurya Yadav. Defying hardware limits through advanced quantization engineering.*
