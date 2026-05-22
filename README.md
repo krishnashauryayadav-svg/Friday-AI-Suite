@@ -5,7 +5,7 @@
 [![Ollama](https://shields.io)](https://ollama.com)
 [![Optimization](https://shields.io)](https://github.com)
 
-> **"Built Custom for Krishna Bhai by a Resourceful Engineer."**  
+> **"Built Custom by a Resourceful Engineer."**  
 An enterprise-grade, 100% offline, privacy-first AI Ecosystem that packs a **Remote OS Automation Controller, an AI-Powered Vulnerability Scanner (SAST), and an ATS Resume Keyword Optimizer** into a single central dashboard.
 
 ---
