@@ -37,14 +37,15 @@ Using **Unsloth**, the base `Qwen2.5-1.5B-Instruct` model was quantized into a h
     ▼                              ▼                              ▼
 ┌───────────────────┐    ┌───────────────────┐    ┌───────────────────┐
 │ 💻 OS Controller  │    │ 🛡️ Hacker AI      │    │ 📄 ATS Optimizer  │
-│ (Telegram Gate)   │    │ (SAST Scanner)    │    │ (HR Analyzer)     │
+│  (WITH CHATBOT)   │    │ (SAST Scanner)    │    │ (HR Analyzer)     │
 └───────────────────┘    └───────────────────┘    └───────────────────┘
 ```
 
-### 1. 💻 Module 1: OS Automation Terminal (Telegram Integration)
-- Connects host kernel structures securely to Telegram bot long-polling protocols.
-- Triggers low-level OS operations remotely: Grabs real-time desktop screenshots, traverses system directories recursively up to 3 depth layers, and enforces **Sleep** or graceful **Shutdown** timelines.
-- **Biometric Lock:** Hard-coded `message.chat.id` authorization arrays prevent any malicious unauthorized entities from taking over the host shell.
+### 1. 💻 Module 1: OS Automation Terminal (Voice & Chat Interface)
+- Natural Interaction Layer: Host system kernel ko direct Streamlit chat interface aur voice protocols se connect karta hai bina kisi external proxy ke.
+- Dynamic Command Parsing: Response instructions me se system commands ([CMD: ...]) ko recursively extract karke background utilities trigger karta hai.
+- Low-Level Operations: Bina web interaction ke directly native terminal command execution ke jariye Windows environment ko safely Shutdown karne ki operational capabilities.
+- Real-Time Web Routing: Webbrowser drivers ko trigger karke local machine par user ki search queries ko automatic automate aur fetch karta hai.
 
 ### 2. 🛡️ Module 2: Hacker AI (Static Application Security Testing - SAST)
 - Rewires the fine-tuned logical matrix into an aggressive cyber-auditor.
